@@ -1,6 +1,3 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
-layout: page
-title: "tatsutaa"
-permalink: https://tatsutaa.github.io/about/contact
+酸素：H₂O
+二酸化炭素：CO₂
+窒素：N₂
