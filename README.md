@@ -21,9 +21,9 @@
   窒素：N₂<br>
   アンモニア：NH₃<br>
   水酸化ナトリウム：NaOH<br>
-  水酸化カルシウム：Ca(OH)₂
-  炭酸水素ナトリウム：NaHCO₃
-  炭酸ナトリウム：Na₂CO₃
+  水酸化カルシウム：Ca(OH)₂<br>
+  炭酸水素ナトリウム：NaHCO₃<br>
+  炭酸ナトリウム：Na₂CO₃<br>
   塩酸：HCl<br>
   塩化ナトリウム：NaCl<br>
 　ブドウ糖：C₆H₁₂O₆<br>
@@ -31,7 +31,7 @@
   酢酸：CH₃COOH<br>
   炭酸水：H₂CO₃<br>
 　蒸留水：H₂O<br>
-  硫酸：H₂SO₄
+  硫酸：H₂SO₄<br>
   </h1>
 </body>
 </html>
