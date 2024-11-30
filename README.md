@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="index.css">
     <style>
       h2 {
-        color: black
+        color: white
       }
       body {
         background: skyblue
