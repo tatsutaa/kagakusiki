@@ -14,10 +14,10 @@
     </style>
   </head>
 <body>
-  <h2>
+  <h1>
   酸素：H₂O<br>
   二酸化炭素：CO₂<br>
   窒素：N₂<br>
-  </h2>
+  </h1>
 </body>
 </html>
