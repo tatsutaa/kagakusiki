@@ -16,12 +16,22 @@
 <body>
   <h1>
   酸素：H₂O<br>
+  一酸化炭素：CO<br>
   二酸化炭素：CO₂<br>
   窒素：N₂<br>
   アンモニア：NH₃<br>
   水酸化ナトリウム：NaOH<br>
+  水酸化カルシウム：Ca(OH)₂
+  炭酸水素ナトリウム：NaHCO₃
+  炭酸ナトリウム：Na₂CO₃
   塩酸：HCl<br>
   塩化ナトリウム：NaCl<br>
+　ブドウ糖：C₆H₁₂O₆<br>
+  麦芽糖：C₁₂H₂₂O₁₁<br>
+  酢酸：CH₃COOH<br>
+  炭酸水：H₂CO₃<br>
+　蒸留水：H₂O<br>
+  硫酸：H₂SO₄
   </h1>
 </body>
 </html>
