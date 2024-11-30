@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>化学式</title>
-    <link rel="stylesheet" href="index.css">
     <style>
       h2 {
         color: white
