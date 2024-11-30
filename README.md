@@ -9,7 +9,7 @@
         color: black
       }
       body {
-        background: blue
+        background: skyblue
       }
     </style>
   </head>
