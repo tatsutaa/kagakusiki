@@ -26,11 +26,11 @@
   炭酸ナトリウム：Na₂CO₃<br>
   塩酸：HCl<br>
   塩化ナトリウム：NaCl<br>
-　ブドウ糖：C₆H₁₂O₆<br>
-麦芽糖：C₁₂H₂₂O₁₁<br>
+ブドウ糖：C₆H₁₂O₆<br>
+  麦芽糖：C₁₂H₂₂O₁₁<br>
   酢酸：CH₃COOH<br>
   炭酸水：H₂CO₃<br>
-　蒸留水：H₂O<br>
+蒸留水：H₂O<br>
   硫酸：H₂SO₄<br>
   </h1>
 </body>
