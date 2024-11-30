@@ -19,9 +19,9 @@
   二酸化炭素：CO₂<br>
   窒素：N₂<br>
   アンモニア：NH₃<br>
-  水酸化ナトリウム：NaOH
-  塩酸：HCl
-  塩化ナトリウム：NaCl
+  水酸化ナトリウム：NaOH<br>
+  塩酸：HCl<br>
+  塩化ナトリウム：NaCl<br>
   </h1>
 </body>
 </html>
