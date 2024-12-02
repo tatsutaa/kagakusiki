@@ -31,6 +31,16 @@
   炭酸水：H₂CO₃<br>
 蒸留水：H₂O<br>
   硫酸：H₂SO₄<br>
+  亜鉛：Zn<br>
+  鉄：Fe<br>
+  硫化鉄：FeS<br>
+  銅：Cu<br>
+  酸化銅：CuO<br>
+  塩化銅：CuCl₂<br>
+  硫化水素：H₂S<br>
+  硝酸カリウム：KNO₃<br>
+  硝酸ナトリウム：NaNO₃<br>
+  硝酸カルシウム：Na(NO₃)₂<br>
   </h1>
 </body>
 </html>
