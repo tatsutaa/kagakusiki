@@ -14,8 +14,9 @@
     </style>
   </head>
 <body>
-  <h1>
-  酸素：H₂O<br>
+  <h3>
+  酸素：O₂<br>
+  蒸留水：H₂O<br>
   一酸化炭素：CO<br>
   一酸化マンガン：MnO<br>
   二酸化炭素：CO₂<br>
@@ -61,6 +62,6 @@
   リン酸三カリウム：K₃PO₄<br>
   リン酸水素二カリウム：K₂HPO₄<br>
   リン酸二水素カリウム：KH₂PO₄<br>
-  </h1>
+  </h3>
 </body>
 </html>
