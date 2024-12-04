@@ -5,10 +5,11 @@
     <title>化学式</title>
     <style>
       h2 {
-        color: white
+        color: black
       }
       body {
-        background: gray
+        background: white
+        font-family:'ＭＳ Ｐゴシック','メイリオ','ヒラギノ角ゴ Pro W3',sans-serif;
       }
     </style>
   </head>
@@ -16,7 +17,9 @@
   <h1>
   酸素：H₂O<br>
   一酸化炭素：CO<br>
+  一酸化マンガン：MnO<br>
   二酸化炭素：CO₂<br>
+  二酸化マンガン：MnO₂<br>
   窒素：N₂<br>
   アンモニア：NH₃<br>
   水酸化ナトリウム：NaOH<br>
@@ -41,7 +44,23 @@
   硝酸カリウム：KNO₃<br>
   硝酸ナトリウム：NaNO₃<br>
   硝酸カルシウム：Na(NO₃)₂<br>
-  リン酸アンモニウム：
+  硝酸アンモニウム：NH₄NO₃<br>
+  リン酸アンモニウム：(NH₄)₃PO₄<br>
+  リン酸アルミニウム：AlPO₄<br>
+  リン酸三ナトリウム：Na₃PO₄<br>
+  リン酸一水素カルシウム：CaHPO₄<br>
+  リン酸一水素カルシウム二水和物：CaHPO₄・H₂O<br>
+  リン酸二水素カルシウム：Ca(H₂PO₄)₂<br>
+  リン酸二水素カルシウム水和物：Ca(H₂PO₄)₂・H₂O<br>
+  リン酸三カルシウム：Ca₃(H₂PO₄)₂<br>
+  リン酸四カルシウム：Ca₄(H₂PO₄)₂O<br>
+  リン酸八カルシウム：Ca₈(PO₄)₄(HPO₄)₂(OH₂)<br>
+  水酸化リン酸カルシウム：Ca₁₀(PO₄)₆(OH)₂<br>
+  炭酸水酸化リン酸カルシウム：Ca₁₀CO₃(PO₄)₆H₂O<br>
+  ピロリン酸カルシウム：Ca₂O₇P₂<br>
+  リン酸三カリウム：K₃PO₄<br>
+  リン酸水素二カリウム：K₂HPO₄<br>
+  リン酸二水素カリウム：KH₂PO₄<br>
   </h1>
 </body>
 </html>
