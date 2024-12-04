@@ -17,9 +17,13 @@
   <h3>
   蒸留水：H₂O<br>
   石灰水：Ca(OH)₂<br>
+  酢酸：CH₃COOH<br>
+  硫酸：H₂SO₄<br>
+  塩酸：HCl<br>
+  過酸化水素水：H₂O₂<br>
   一酸化炭素：CO<br>
-  一酸化マンガン：MnO<br>
   二酸化炭素：CO₂<br>
+  一酸化マンガン：MnO<br>
   二酸化マンガン：MnO₂<br>
   酸素：O₂<br>
   窒素：N₂<br>
@@ -28,17 +32,17 @@
   水酸化カルシウム：Ca(OH)₂<br>
   炭酸水素ナトリウム：NaHCO₃<br>
   炭酸ナトリウム：Na₂CO₃<br>
-  塩酸：HCl<br>
   塩化ナトリウム：NaCl<br>
 ブドウ糖：C₆H₁₂O₆<br>
   麦芽糖：C₁₂H₂₂O₁₁<br>
-  酢酸：CH₃COOH<br>
   炭酸水：H₂CO₃<br>
-硫酸：H₂SO₄<br>
-  亜鉛：Zn<br>
+亜鉛：Zn<br>
   鉄：Fe<br>
   硫化鉄：FeS<br>
+  酸化鉄：　赤錆：Fe₂O₃　黒錆：Fe₃O₄<br>
+  塩化鉄：FeCl₂<br>
   銅：Cu<br>
+  硫化銅：Cu₂S<br>
   酸化銅：CuO<br>
   塩化銅：CuCl₂<br>
   硫化水素：H₂S<br>
