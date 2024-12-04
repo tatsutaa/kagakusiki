@@ -15,12 +15,13 @@
   </head>
 <body>
   <h3>
-  酸素：O₂<br>
   蒸留水：H₂O<br>
+  石灰水：Ca(OH)₂<br>
   一酸化炭素：CO<br>
   一酸化マンガン：MnO<br>
   二酸化炭素：CO₂<br>
   二酸化マンガン：MnO₂<br>
+  酸素：O₂<br>
   窒素：N₂<br>
   アンモニア：NH₃<br>
   水酸化ナトリウム：NaOH<br>
@@ -33,8 +34,7 @@
   麦芽糖：C₁₂H₂₂O₁₁<br>
   酢酸：CH₃COOH<br>
   炭酸水：H₂CO₃<br>
-蒸留水：H₂O<br>
-  硫酸：H₂SO₄<br>
+硫酸：H₂SO₄<br>
   亜鉛：Zn<br>
   鉄：Fe<br>
   硫化鉄：FeS<br>
