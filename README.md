@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
@@ -15,6 +14,7 @@
     </style>
   </head>
 <body>
+  <h1>化学式一覧</h1>
   <h3>
   液体（水溶液）<br>
   ・炭酸水：H₂CO₃<br>
