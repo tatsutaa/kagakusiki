@@ -85,8 +85,8 @@
         
   　　<h3>4.P(プ)燐</h3>
     　　<h4>・黄燐（P₄）</h4>
-          <h5>　形：　正四面体<br>　色：　<kiro>黄色</kiro><br><murasaki>　毒性</murasaki>：　<maru>〇</maru><br></h5>
+          <h5>　形：　正四面体<br>　色：　<kiro>黄色</kiro><br>　<murasaki>毒性</murasaki>：　<maru>〇</maru></h5>
       　<h4>・赤燐（P）</h4>
-          <h5>　形：　無定形<br>　色：　<aka>赤色</aka><br><murasaki>　毒性</murasaki>：　<batsu>✕</batsu><br></h5>
+          <h5>　形：　無定形<br>　色：　<aka>赤色</aka><br>　<murasaki>毒性</murasaki>：　<batsu>✕</batsu></h5>
 </body>
 </html>
