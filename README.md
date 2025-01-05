@@ -57,7 +57,7 @@
   　　<h2>硝酸類<br></h2>
   　　　<h3>　・硝酸カリウム：　KNO₃<br>　・硝酸ナトリウム：　NaNO₃<br>　・硝酸カルシウム：　Na(NO₃)₂<br>　・硝酸アンモニウム：　NH₄NO₃<br></h3>
   
- 　 　<h2><ruby>燐<rt>リン</rt><ruby>酸類<br></h2>
+ 　 　<h2>　<ruby>燐　<rt>リン</rt>　<ruby>酸<br>　</h2>
  　　 　<h3>　・燐酸アンモニウム：　(NH₄)₃PO₄<br>　・燐酸アルミニウム：　AlPO₄<br>　・燐酸三ナトリウム：　Na₃PO₄<br>　・燐酸一水素カルシウム：　CaHPO₄<br>　・燐酸一水素カルシウム二水和物：　CaHPO₄・H₂O<br>　・燐酸二水素カルシウム：　Ca(H₂PO₄)₂<br>　・燐酸二水素カルシウム水和物：　Ca(H₂PO₄)₂・H₂O<br>　・燐酸三カルシウム：　Ca₃(H₂PO₄)₂<br>　・燐酸四カルシウム：　Ca₄(H₂PO₄)₂O<br>　・燐酸八カルシウム：　Ca₈(PO₄)₄(HPO₄)₂(OH₂)<br>　・水酸化燐酸カルシウム：　Ca₁₀(PO₄)₆(OH)₂<br>　・炭酸水酸化燐酸カルシウム：　Ca₁₀CO₃(PO₄)₆H₂O<br>　・燐酸三カリウム：　K₃PO₄<br>　・燐酸水素二カリウム：　K₂HPO₄<br>　・燐酸二水素カリウム：　KH₂PO₄<br></h3>
  　 
  　 　<h2>同素体（<ruby> S<rt>ス</rt> C<rt>コ</rt> O<rt>ッ</rt> P<rt>プ</rt> </ruby>）<br></h2>
