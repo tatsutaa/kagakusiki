@@ -53,7 +53,7 @@
     　　<h4>　・硫化鉄：　FeS<br>　・酸化鉄（赤錆）：　Fe₂O₃<br>　・酸化鉄（黒錆）：　Fe₃O₄<br>　・塩化鉄：　FeCl₂<br></h4>
         <h4>　・塩化鉄：　FeCl₂</h4>
  　　 <h3>銅：Cu</h3>
-      　<h4>・硫化銅：Cu₂S<br>・酸化銅：CuO<br>・塩化銅：CuCl₂<br></h4>
+      　<h4>　・硫化銅：　Cu₂S<br>　・酸化銅：　CuO<br>　・塩化銅：　CuCl₂<br></h4>
     
   　<h2>硝酸類</h2>
   　　<h3>　・硝酸カリウム：　KNO₃<br>　・硝酸ナトリウム：　NaNO₃<br>　・硝酸カルシウム：　Na(NO₃)₂<br>　・硝酸アンモニウム：　NH₄NO₃<br></h3>
