@@ -31,7 +31,7 @@
 <body>
   <h1>化学式一覧</h1>
   　<h2>液体（水溶液）</h2>
-  　　<h3>・炭酸水：H₂CO₃<br>・酢酸：CH₃COOH<br>・硫酸：H₂SO₄<br>・塩酸：HCl<br>・水酸化ナトリウム水溶液：NaOH<br>・重曹水(炭酸水素ナトリウム水溶液)：NaHCO₃<br>・石灰水：Ca(OH)₂<br>・蒸留水：H₂O<br>・アルコール水<br>・メタノール：CH₄O<br>・エタノール：C₂H₆O<br>・プロパノール：C₃H₈O<br>・アンモニア水：NH₄OH<br>・過酸化水素水：H₂O₂<br></h3>
+  　　<h3>　・炭酸水：　H₂CO₃<br>　・酢酸：　CH₃COOH<br>　・硫酸：　H₂SO₄<br>　・塩酸：　HCl<br>　・水酸化ナトリウム水溶液：　NaOH<br>　・重曹水(炭酸水素ナトリウム水溶液)：　NaHCO₃<br>　・石灰水：　Ca(OH)₂<br>　・蒸留水：　H₂O<br>　・アルコール水：　C₂H₆O<br>　・メタノール：　CH₄O<br>　・エタノール：C₂H₆O<br>　・プロパノール：C₃H₈O<br>　・アンモニア水：NH₄OH<br>　・過酸化水素水：H₂O₂<br>　</h3>
   
   　<h2>気体</h2>
   　　<h3>・一酸化炭素：CO<br>・二酸化炭素：CO₂<br>・一酸化硫黄：SO<br>・二酸化硫黄：SO₂<br>・酸素：O₂<br>・オゾン：O₃<br>・窒素：N₂<br>・アンモニア：NH₃<br>・一酸化マンガン：MnO<br>・二酸化マンガン：MnO₂<br>・水酸化ナトリウム：NaOH<br></h3>
