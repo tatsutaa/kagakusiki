@@ -7,7 +7,21 @@
       h2 {
         color: black
       }
-      h5
+      kiro {
+        color: yellow
+      }
+      aka {
+        color: red
+      }
+      maru {
+        color: red
+      }
+      batsu {
+        color: blue
+      }
+      murasaki {
+        color: purple
+      }
       body {
         background: white
         font-family:'ＭＳ Ｐゴシック','メイリオ','ヒラギノ角ゴ Pro W3',sans-serif;
@@ -51,30 +65,30 @@
  　 <h2>同素体（<ruby> S<rt>ス</rt> C<rt>コ</rt> O<rt>ッ</rt> P<rt>プ</rt> </ruby>）</h2>
  　　 <h3>1.S(ス)硫黄</h3>
     　　<h4>・斜方硫黄（S₈）</h4>　
-      　　<h5>色：黄色<br>状態：非常に安定<br>溶解性：二硫化炭素（CS<sup>2</sup>）に溶ける<br></h5>
+      　　<h5>色：<kiro>黄色</kiro><br>状態：非常に安定<br>溶解性：二硫化炭素（CS<sup>2</sup>）に溶ける<br></h5>
         <h4>・単斜硫黄（S₈）</h4>
-          <h5>色：黄色<br>状態：放置すると斜方硫黄になる<br>溶解性：二硫化炭素（CS<sup>2</sup>）に溶ける<br></h5>
+          <h5>色：<kiro>黄色</kiro><br>状態：放置すると斜方硫黄になる<br>溶解性：二硫化炭素（CS<sup>2</sup>）に溶ける<br></h5>
         <h4>・ゴム状硫黄（S<sup>x</sup>）</h4>
-          <h5>色：黄色<br>状態：放置すると斜方硫黄になる<br>溶解性：二硫化炭素（CS<sup>2</sup>）に溶けない<br></h5>
+          <h5>色：<kiro>黄色</kiro><br>状態：放置すると斜方硫黄になる<br>溶解性：二硫化炭素（CS<sup>2</sup>）に溶けない<br></h5>
       
   　　<h3>2.C(コ)炭素</h3>
     　　<h4>・黒鉛（C）</h4>
           <h5>色：黒色<br>構造：C原子により形成された6角形の層が分子間力で結合<br>性質：やわらかい、もろい、電気伝導性あり、金属光沢あり</h5>
       　<h4>・ダイヤモンド（C）</h4>
-          <h5>色：無色透明<br>構造：C原子が正四面体の頂点方向に共有結合<br>性質：
+          <h5>色：無色透明<br>構造：C原子が正四面体の頂点方向に共有結合<br>性質：極めて硬い、電気伝導性なし
         <h4>・フラーレン（C₆₀）</h4>
-          <h5>色：ー<br>構造：C原子がサッカーボール型に結合<br>性質：
+          <h5>色：ー<br>構造：C原子がサッカーボール型に結合<br>性質：ナノテクノロジーに利用
       
   　　<h3>3.O(ッ)酸素</h3>
-    　　<h4>
-        ・酸素（O₂）
-        ・オゾン（O₃）
-        </h4>
+    　　<h4>・酸素（O₂）</h4>
+          <h5>形：直線形<br>色：無色<br>臭い：無臭<br>性質：<red>助燃性</red>あり</h5>
+        <h4>オゾン（O₃）</h4>
+          <h5>形：折れ線形<br>色：淡青色<br>臭い：特異臭<br>性質：<murasaki>紫外線</murasaki>吸収効果あり</h5>
         
   　　<h3>4.P(プ)燐</h3>
-    　　<h4>
-        ・黄燐（P₄）
-        ・赤燐（P）
-        </h4>
+    　　<h4>・黄燐（P₄）</h4>
+          <h5>形：正四面体<br>色：<kiro>黄色</kiro><br><murasaki>毒性</murasaki>：<maru>〇</maru><br></h5>
+      　<h4>・赤燐（P）</h4>
+          <h5>形：無定形<br>色：<aka>赤色</aka><br><murasaki>毒性</murasaki>：<batsu>✕</batsu><br></h5>
 </body>
 </html>
